@@ -22,6 +22,9 @@ Health panel font: I-pixel-u.ttf → I-pixel-u Plus.ttf
 
 ## Credits
 The effort of extending the glyph set of Retro Gaming Plus was done by Catterio. 
+
 I-pixel-u Plus was made by Catterio.
+
 Retro Gaming was made by Daydarius.
+
 I pixel u was made by rodrigosrtz.
