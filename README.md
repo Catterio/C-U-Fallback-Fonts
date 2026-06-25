@@ -9,7 +9,7 @@ _Retro Gaming Plus_ is a direct extension of _Retro Gaming_, which is published 
 
 _I-pixel-u Plus_ was developed independently from _I pixel u_, which is legally attached to a [FontStruct License](https://fontstruct.com/faq/5/licensing_legal_questions/an_overview_of_licensing) ([See original publication of _I pixel u_ here](https://fontstruct.com/fontstructions/show/1146323/i_pixel_u)). _I-pixel-u Plus_, however, is made available to the public without license.
 
-Attribution is optional and is not required if you wish to use these fonts for your projects, whether commercial or for personal use. Though, I will appreciate it if you do want to give credit.
+Attribution is optional and is not required if you wish to use these fonts for your projects. Though, I will appreciate it if you do want to give credit.
 
 
 ## Fallback/Replacement
