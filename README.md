@@ -31,9 +31,9 @@ Azerbaijani, Belarusian, Bosnian, Bulgarian, Chechen, Macedonian, Ossetic, Russi
 
 ## Credits
 
-The effort of expanding language support for _Retro Gaming Plus_ was done by Catterio.
+Expanding language support for _Retro Gaming Plus_ was done by Catterio.
 
-_I-pixel-u_ Plus was made by Catterio.
+_I-pixel-u_ Plus was made by Catterio (independent of _I pixel u_).
 
 _Retro Gaming_ was made by Daydarius.
 
