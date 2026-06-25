@@ -1,19 +1,21 @@
 # Casualties: Unknown Fallback Fonts
 
 ## Information
-These two fonts are intended to be metrically-compatible fallback fonts for Casualties: Unknown, where the glyph sets of fonts for the main user interface and health panel interface are expanded to support a lot more languages of Latin and Cyrillic scripts as well as Greek.
+These fonts are intended to be metrically-compatible fallback fonts for Casualties: Unknown, where the fonts for the Main UI and Health panel UI have extended language support, covering a ton more languages of Latin and Cyrillic scripts, as well as Greek.
 
-Retro Gaming Plus is a direct extension of Retro Gaming, which is published without a license. Following that, no license is attached to Retro Gaming Plus as well.
 
-I-pixel-u Plus was created independently from I pixel u, which is legally attached to a [FontStruct License](https://fontstruct.com/faq/5/licensing_legal_questions/an_overview_of_licensing) ([See original publication of I pixel u here](https://fontstruct.com/fontstructions/show/1146323/i_pixel_u)). I-pixel-u Plus, however, is made available to the public without license, essentially meaning public domain.
+## Regarding usage terms
+_Retro Gaming Plus_ is a direct extension of _Retro Gaming_, which is published without a license. The same will be applied to _Retro Gaming Plus_.
 
-No attribution is optional and is not required whatsoever if you wish to use these fonts for your projects and there are no licenses attached to them. Though, I will appreciate it if you willingly do.
+_I-pixel-u Plus_ was developed independently from _I pixel u_, which is legally attached to a [FontStruct License](https://fontstruct.com/faq/5/licensing_legal_questions/an_overview_of_licensing) ([See original publication of _I pixel u_ here](https://fontstruct.com/fontstructions/show/1146323/i_pixel_u)). _I-pixel-u Plus_, however, is made available to the public without license.
+
+Attribution is optional and is not required if you wish to use these fonts for your projects, whether commercial or for personal use. Though, I will appreciate it if you do want to give credit.
 
 
 ## Fallback/Replacement
-Main UI font: Retro Gaming.ttf → Retro Gaming Plus.ttf
+Main UI font: `Retro Gaming.ttf` → `Retro Gaming Plus.ttf`
 
-Health panel font: I-pixel-u.ttf → I-pixel-u Plus.ttf
+Health panel font: `I-pixel-u.ttf` → `I-pixel-u Plus.ttf`
 
 
 ## Supported languages
@@ -23,10 +25,10 @@ Azerbaijani, Belarusian, Bosnian, Bulgarian, Chechen, Macedonian, Ossetic, Russi
 
 
 ## Credits
-The effort of extending the glyph set of Retro Gaming Plus was done by Catterio. 
+The effort of expanding language support for _Retro Gaming Plus_ was done by Catterio.
 
-I-pixel-u Plus was made by Catterio.
+_I-pixel-u_ Plus was made by Catterio.
 
-Retro Gaming was made by Daydarius.
+_Retro Gaming_ was made by Daydarius.
 
-I pixel u was made by rodrigosrtz.
+_I pixel u_ was made by rodrigosrtz.
