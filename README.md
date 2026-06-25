@@ -5,7 +5,7 @@ These two fonts are intended to be metrically-compatible fallback fonts for Casu
 
 Retro Gaming Plus is a direct extension of Retro Gaming, which is published without a license. Following that, no license is attached to Retro Gaming Plus as well.
 
-I-pixel-u Plus was created independently from I pixel u, which is legally attached to a [FontStruct License](https://fontstruct.com/faq/5/licensing_legal_questions/an_overview_of_licensing) [(See original publication of I pixel u here)](https://fontstruct.com/fontstructions/show/1146323/i_pixel_u). I-pixel-u Plus, however, is made available to the public without license, essentially meaning public domain.
+I-pixel-u Plus was created independently from I pixel u, which is legally attached to a [FontStruct License](https://fontstruct.com/faq/5/licensing_legal_questions/an_overview_of_licensing) ([See original publication of I pixel u here](https://fontstruct.com/fontstructions/show/1146323/i_pixel_u)). I-pixel-u Plus, however, is made available to the public without license, essentially meaning public domain.
 
 No attribution is required whatsoever if you wish to use these fonts for your projects and there are no licenses attached to them.
 
