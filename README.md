@@ -7,9 +7,10 @@ You will need to have XTMP already set up in order to add fallback fonts into th
 
 ## Usage guide
 
-1. Install [XTMP](https://github.com/kawalain/XTMP) in your [BepInEx](https://github.com/BepInEx/BepInEx) plugin. (Check the tutorial links provided by the repositories for instructions to set up.)
-2. Place the `.ttf` font files into the `BepInEx/plugins/XTMP/fonts` directory.
-3. Write the configuration file as provided below, then save it as a `.ini` file (e.g.: `configuration.ini`) and put it in the same directory as the `.ttf` font files.
+1. Install the [BepInEx](https://github.com/BepInEx/BepInEx/releases) plugin. (Refer to this [KrokMP installation tutorial](https://youtu.be/heVTSZc2a20) for instructions on how to set up BepInEx.)
+2. Create a folder named `XTMP` inside `BepInEx/plugins`. Install `XTMP.dll` and `XTMP.pdb` from the [XTMP repository](https://github.com/kawalain/XTMP/releases/latest) and place them in the `XTMP` folder.
+3. Place the `.ttf` font files into the `XTMP` folder.
+4. Write a configuration file as provided below, then save it as a `.ini` file (e.g.: `configuration.ini`) and put it in the same directory as the `.ttf` font files.
 ```
 Retro Gaming Plus
 
@@ -20,6 +21,17 @@ Retro Gaming Plus
 I-pixel-u Plus
 ```
   > If you wish to customise the fallback/replacement font, refer to the [configuration syntax](https://github.com/kawalain/XTMP#configuration-syntax).
+
+
+  At the end, your `BepInEx/plugins/XTMP` directory should look something like this:
+```
+BepInEx/plugins/XTMP/
+├── configuration.ini
+├── XTMP.dll
+├── XTMP.pdb
+├── I-pixel-u Plus.ttf
+└── Retro Gaming Plus.ttf
+```
 
 
 ## Supported languages
