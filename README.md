@@ -1,6 +1,6 @@
 # XTMP Fallback Fonts for Casualties: Unknown
 
-![Image](image.png)
+![Preview](preview.png)
 
 These fonts are intended to be metrically-compatible fallback fonts for Casualties: Unknown, where the fonts for the Main UI and Health panel UI have extended language support, covering a ton more languages of Latin and Cyrillic scripts, as well as Greek.
 
