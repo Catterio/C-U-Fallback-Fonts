@@ -12,13 +12,23 @@ You will need to have XTMP already set up in order to add fallback fonts into th
 3. Download the `.ttf` font files ([here](https://github.com/Catterio/xtmp-casualtiesunknown-fallback-fonts/releases/latest)) and place them in the `XTMP` folder.
 4. Write a configuration file as provided below, then save it as a `.ini` file (e.g.: `configuration.ini`) and place it in the same folder.
 ```
+# GLOBAL FALLBACK FONT
 Retro Gaming Plus
 
+
+# RETRO GAMING-TARGETTED FALLBACK FONT
 [Retro Gaming]
 Retro Gaming Plus
 
-[I-pixel-u]
-I-pixel-u Plus
+[Retro GamingPix]
+Retro Gaming Plus
+
+[Retro Gaming SDF]
+Retro Gaming Plus
+
+
+# HEALTH PANEL REPLACEMENT FONT
+[I-pixel-u -> I-pixel-u Plus]
 ```
   > If you wish to customise the fallback/replacement font, refer to the [configuration syntax](https://github.com/kawalain/XTMP#configuration-syntax).
 
